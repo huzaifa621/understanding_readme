@@ -29,4 +29,4 @@ Clickable links:
 <img height="100px" src="src\deadpool.webp" alt="deadpool_poster"/>
 
 
-![titanic_poster](src\titanic.jpg)
+![titanic_poster](https://raw.githubusercontent.com/huzaifa621/understanding_readme/main/src/titanic.jpg)
