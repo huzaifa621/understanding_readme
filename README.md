@@ -26,6 +26,7 @@ Clickable links:
 [BITS Pilani](https://www.bits-pilani.ac.in/)
 
 ### Images
-![deadpool_poster](deadpool.webp)
+<img height="100px" src="src\deadpool.webp" alt="deadpool_poster"/>
 
-![titanic_poster](titanic.jpg)
+
+![titanic_poster](src\titanic.jpg)
